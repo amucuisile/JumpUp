@@ -20,6 +20,17 @@
     font-size:32px;
     color: black;
 }
+
+.Precautions{
+    width:6em;
+    white-space:nowarp;
+    font-family:monospace;
+    font-size:32px;
+    color:black;
+}
+
+
+
 @keyframes typing {
     from {
         width:0;
