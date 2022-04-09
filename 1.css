@@ -12,7 +12,7 @@
 
 .typing-demo{
     width:88em;
-    animation:typing 2s steps(22), blink 0.5s step-end infinite alternate;
+    animation:typing 2s steps(88), blink 0.5s step-end infinite alternate;
     white-space:nowrap;
     overflow:hidden;
     border-right:3px solid;
